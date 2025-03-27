@@ -6,9 +6,9 @@ Calcular o valor total do pedido com base nos itens escolhidos e aplicar descont
 Permitir ao cliente visualizar e alterar seu pedido antes de finalizar.
 
 # Como Executar passo a passo:
-1- Clone o repositorio do Github
-2- Abra o Projeto no Visual Studio
-3- Execute o arquivo
+1. Clone o repositorio do Github
+2. Abra o Projeto no Visual Studio
+3. Execute o arquivo
 
 # Versão .net: 8.0
 
